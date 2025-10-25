@@ -50,10 +50,5 @@ sudo ./packet-replay --replay capture.pcap
 - GUI Dashboard
 - Real-time traffic statistics
 
-## 🧑‍💻 Author
-**Your Name**  
-📧 youremail@example.com  
-🌐 https://yourwebsite.com
-
 ## 📜 License
 Licensed under the **MIT License**.
